@@ -1,6 +1,6 @@
 # lheartz
 
-In this work, I created a front-end project called lheartz.  This is a romantic code with a beating heart in the middle of the screen. It has my name and my girlfriend's name on each side.
+In this work, I created a front-end project called lheartz.  This is a romantic code with a beating heart in the middle of the screen. It has my name and my girlfriend's name on each side. 
 
 ## Attention
 
